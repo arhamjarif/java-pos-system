@@ -1,4 +1,4 @@
-# convenience-store-guiframe
+# Java POS System 
 
 **FEATURES**  
 - Java swing Graphical User Interface  
